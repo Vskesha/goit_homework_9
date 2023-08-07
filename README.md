@@ -2,7 +2,7 @@
 
 This is a simple console bot for managing phonebook
 
-Program supports next commands (listed in COMMANDS in console_bot_helper.py):
+Program supports next commands (listed in `COMMANDS` in `console_bot_helper.py`):
 
 | Action           | Commands                     |
 |:-----------------|:-----------------------------|
